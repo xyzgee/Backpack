@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+#Backpack
+----------
+This application helps to organize various items and stores in it. This is mainly built using React.js and some node modules.
+
+Features:
+- Drag and drop Reordering
+- Search functionality
+- Category filtering with chips
+- Priority levels with star ratings
+- Item quantities with badges
+- Due dates
+- Notes
+- Edit dialog 
+- Local storage persistence
+- Material UI Integration 
+- Tooltips for additional information 
+- Improved animations and transitions
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
